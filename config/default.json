@@ -1,0 +1,50 @@
+{
+
+    "JWT": {
+      "KEY": "f98dsfjkjfidskjnafd8aufij43kn45f4d654af8a5f448345438545w",
+      "KEY_REFRESH": "jfdusyijfdisajfkewjufioejdkshafuiodjafkldsjhfiodjafkldsajhfdakjnfu498i548fj",
+      "KEY_TEMPORARY": "kjfdlsjudjaaijgdajaj4398t9kgmrljvfosdamgfrwmgfljvhdposafgndsagmnflkanfdskj",
+      "KEY_EXPIRE": "1h",
+      "KEY_TEMPORARY_EXPIRE": "1h",
+      "KEY_REFRESH_EXPIRE": "5h",
+      "COOKIE": true
+    },
+  "sequelizeSettings": {
+    "local": {
+      "username": "root",
+      "password": "temp123$",
+      "database": "accounting-client",
+      "host": "localhost",
+      "logging": true,
+      "dialect": "mysql",
+      "define": {
+        "freezeTableName": true
+      }
+    },
+    "test": {
+      "username": "root",
+      "password": "temp123$",
+      "database": "accounting-client-test",
+      "host": "localhost",
+      "dialect": "mysql",
+      "logging": true,
+      "define": {
+        "freezeTableName": true
+      }
+    }
+  },
+  "serverHWT": {
+    "url": "http://localhost:8921/rest"
+   },
+    "PORT": 4000,
+    "DOMAIN": "http://localhost:3000",
+    "DOMAIN_IONIC": "http://localhost:8100",
+    "corsOrigin": {
+      "whitelist": [
+        "http://localhost:8080",
+        "http://example2.com"
+      ],
+      "whiteListEndPoints": []
+    },
+  "TEST": true
+}

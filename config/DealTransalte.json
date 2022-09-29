@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dealtransalte",
+  "private_key_id": "a4cc35b231a143308fbb7ed3291566d7e473ab50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4sKCZRr1qK++X\na1EtmgH1BuW5MljZnzvIMLkNj8wvzQaOI2iEpyDADQcoCTLnRVuBL+0+Vz5yUFCB\nA564Oo9C64RmHR1+jgVU4navwSNROf7DwFt3FYqstgTFnoDaiB/ElCNcGMZNxJpB\n+R9CnTmZ4nnqrsILjvRvbdqsX9aJ6Cpt94yxzPyWsjHI9CL6aeQiQLnVFY2G+mET\nActczZPwGBxTruIjxB4DPVlirMTu/H3HR4BnfCAelNROPdbA+Q7a2Jz1ZrIbjt4j\nA93ujUP5BdozSE/ZfAi+cXaI1l0NHCCWIu1M8FBTyMzeV5BOVHYQWuXC9OUcOVkC\nK6omV9NtAgMBAAECggEAJhdxzCMpqmXs6LU+3TGkITH+u9tdNWcw2IlqBVjI43v9\nE+BMLH3e1JVrSi/ZgpcMuCCXJRIv5DpZ3D4PpI4ZYZM7L6dmH6WxhlAd7AJg4x4b\nxCpegvlbrGLvKYYXK9tC+BOYlmRatAvuR9iWgLH2QR2TiRpplaIymm/VF9O9Zxwz\nG11hT4+Zs8TYJ9+VpL2W5HgJdqVsadbXH7OwjUh1nUxGCrw74ecYBwBEhV4IhK5u\nk7YdyiHntvymj0OGxIS7IhGIW6NO6NQCBlEVtU59YO6qPkwzZoHP76b7ooNgxHPB\n9Ac4kRdFUhAa4RqhD+tOkQzCRbopa2XTvR5vOtp+sQKBgQD/EGM3ZBslGHhq5wTl\nDyOBuXo4GWtu63WDyHYVRXGeJe1HrAfKzFblta0GTLazKyAs1dA3wn9p7rTNc2qc\ntU0uBJ+QSGYcDJXxt/N8tNVjQ9DMYQARVaxrS7aPoi7HW6XFqhz+WOEDQxx0PGBn\n3EYer4tlaSkkSJNnp0W5f9oSvQKBgQC5XiEAtO4/upgnVk2zvqibT9G8AtTquPvn\nhb6cbI7lH3L4Ko1kkIjIbP9oqPasQns5DZjMEMD15sMIyJNG7G993OtnYhRQwaOs\nzwFl8E9VSVT7i6hyvIyywEFtouwQhNOGYL0zB7P8cDDrOF0T23/NnX7zUXzKtRDW\n2uR+eRumcQKBgHHDrm0zUkQucO9FkVJVeUHQJ6pD9D4p+WVJERoVukKOqhHQsj0K\n/StB6CWqK8coUhaNW2yzbL8kADKu6vtwhjcjSsRA9oJGPs7sfEbAJXk78zJlhXE1\n5EyLHadc8D5tKzhJ0trDa8FXuqZBk8JfZksjgyo9SGNtl4mg+yFs3CiFAoGAVpcH\n56KdIJvzc3y3M12+uT5iBOd1umfLFG2/iqaTYah9Njv6bJ2vp6By9trmz7UGhrI5\nTCoPWU8AkFvRoHHV6v+F33dLciXiZVkVmB7XkEl/Lzof5+j3+JAigCp5B4ZkoQMT\nnoDcrPFjiJ19rUb9vnjx0ougNbi7MwJxdjrwlaECgYAXfWMGuQa22dN1swTPZdu3\nsVczthfrQ3DBpTOFf2P152VAAHHUJAO0lO95KNii58In9v62XHnqbtI1aO27+Rvq\nXTR+QYLrMScGlyJ5274ekADR8Bg+tjoDOzk9YOCS2zaEhdOIDO2nHi5dkXyolAbY\nazeux73KMQsa+SJstWsb0A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dealtranslate@dealtransalte.iam.gserviceaccount.com",
+  "client_id": "105937005800422194014",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dealtranslate%40dealtransalte.iam.gserviceaccount.com"
+}

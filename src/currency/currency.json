@@ -1,0 +1,310 @@
+[
+  {
+    "name": "Euro",
+    "short": "Euro",
+    "mark": "EUR",
+    "country": "EMU",
+    "status": 1,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 117.2246,
+      "middleRate": 0,
+      "sellingRate": 117.93
+    }
+  },
+  {
+    "name": "Australian Dollar",
+    "short": "Australian D",
+    "mark": "AUD",
+    "country": "Australia",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 72.1782,
+      "middleRate": 0,
+      "sellingRate": 72.6126
+    }
+  },
+  {
+    "name": "Canadian Dollar",
+    "short": "Canadian Dol",
+    "mark": "CAD",
+    "country": "Canada",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 75.5849,
+      "middleRate": 0,
+      "sellingRate": 76.0397
+    }
+  },
+  {
+    "name": "Yuan Renminbi",
+    "short": "Yuan Renminb",
+    "mark": "CNY",
+    "country": "China",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 14.9089,
+      "middleRate": 0,
+      "sellingRate": 14.9987
+    }
+  },
+  {
+    "name": "Croatian Kuna",
+    "short": "Croatian Kun",
+    "mark": "HRK",
+    "country": "Croatia",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 15.5122,
+      "middleRate": 0,
+      "sellingRate": 15.6056
+    }
+  },
+  {
+    "name": "Czech Koruna",
+    "short": "Czech Koruna",
+    "mark": "CZK",
+    "country": "Czech Republic",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 4.4642,
+      "middleRate": 0,
+      "sellingRate": 4.491
+    }
+  },
+  {
+    "name": "Danish Krone",
+    "short": "Danish Krone",
+    "mark": "DKK",
+    "country": "Denmark",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 15.746,
+      "middleRate": 0,
+      "sellingRate": 15.8408
+    }
+  },
+  {
+    "name": "Hungarian Forint",
+    "short": "Hungarian Fo",
+    "mark": "HUF",
+    "country": "Hungary",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 100,
+      "buyingRate": 32.6804,
+      "middleRate": 0,
+      "sellingRate": 32.877
+    }
+  },
+  {
+    "name": "Yen",
+    "short": "Yen",
+    "mark": "JPY",
+    "country": "Japan",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 100,
+      "buyingRate": 93.8999,
+      "middleRate": 0,
+      "sellingRate": 94.4649
+    }
+  },
+  {
+    "name": "Kuwaiti Dinar",
+    "short": "Kuwaiti Dina",
+    "mark": "KWD",
+    "country": "Kuwait",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 320.3733,
+      "middleRate": 0,
+      "sellingRate": 322.3013
+    }
+  },
+  {
+    "name": "Norwegian Krone",
+    "short": "Norwegian Kr",
+    "mark": "NOK",
+    "country": "Norway",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 11.0492,
+      "middleRate": 0,
+      "sellingRate": 11.1156
+    }
+  },
+  {
+    "name": "Russian Ruble",
+    "short": "Russian Rubl",
+    "mark": "RUB",
+    "country": "Russian Federation",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 1.283,
+      "middleRate": 0,
+      "sellingRate": 1.2908
+    }
+  },
+  {
+    "name": "Swedish Krona",
+    "short": "Swedish Kron",
+    "mark": "SEK",
+    "country": "Sweden",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 11.4574,
+      "middleRate": 0,
+      "sellingRate": 11.5264
+    }
+  },
+  {
+    "name": "Swiss Franc",
+    "short": "Swiss Franc",
+    "mark": "CHF",
+    "country": "Switzerland",
+    "status": 1,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 108.0511,
+      "middleRate": 0,
+      "sellingRate": 108.7013
+    }
+  },
+  {
+    "name": "Pound Sterling",
+    "short": "Pound Sterli",
+    "mark": "GBP",
+    "country": "United Kingdom",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 130.9918,
+      "middleRate": 0,
+      "sellingRate": 131.7802
+    }
+  },
+  {
+    "name": "US Dollar",
+    "short": "US Dollar",
+    "mark": "USD",
+    "country": "United States",
+    "status": 1,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 98.0302,
+      "middleRate": 0,
+      "sellingRate": 98.6202
+    }
+  },
+  {
+    "name": "Belarussian Ruble",
+    "short": "Belarussian ",
+    "mark": "BYN",
+    "country": "Belarus",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 37.7778,
+      "middleRate": 0,
+      "sellingRate": 38.0052
+    }
+  },
+  {
+    "name": "Leu",
+    "short": "Leu",
+    "mark": "RON",
+    "country": "Romania",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 24.0111,
+      "middleRate": 0,
+      "sellingRate": 24.1555
+    }
+  },
+  {
+    "name": "Turkish Lira",
+    "short": "Turkish Lira",
+    "mark": "TRY",
+    "country": "Turkey",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 12.5241,
+      "middleRate": 0,
+      "sellingRate": 12.5995
+    }
+  },
+  {
+    "name": "Bulgarian Lev",
+    "short": "Bulgarian Le",
+    "mark": "BGN",
+    "country": "Bulgaria",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 59.936,
+      "middleRate": 0,
+      "sellingRate": 60.2966
+    }
+  },
+  {
+    "name": "Convertible Marks",
+    "short": "Convertible ",
+    "mark": "BAM",
+    "country": "Bosnia and Herzegovina",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 59.936,
+      "middleRate": 0,
+      "sellingRate": 60.2966
+    }
+  },
+  {
+    "name": "Zloty",
+    "short": "Zloty",
+    "mark": "PLN",
+    "country": "Poland",
+    "status": 0,
+    "value": {
+      "date": "2020-01-12",
+      "unit": 1,
+      "buyingRate": 26.1656,
+      "middleRate": 0,
+      "sellingRate": 26.323
+    }
+  }
+]

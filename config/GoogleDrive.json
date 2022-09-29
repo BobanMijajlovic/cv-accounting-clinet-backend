@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dealsell-app-1611678594936",
+  "private_key_id": "968e429d1caed4d346573acf0f57813c364efc02",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDBPGOgCN0k1WHS\ngt+9G10o3lu59HT88mXsyLvEsNyBX1vzafCEmyrjASYUsl5h+27gOlm4C8NCttrN\n4JDisDMHbgvo+IFuuz/jlBLnX8MRSE1XpaspJPnSk5vt68lGUD8ZBLRUd5Hb9gOb\nEZRmRyhy9UYTaqOauk8RvHF4SdkpdhO0T6TXNLBL27s4gy5PaWBoB6SJ7UU6l/gr\n2OqK2iTTz50YofTKN0Mc9Ca1DQ1tiX4KBcHA5rHpA09YZqCtRemifKHTE2d6H7Rp\noplv1Ht6hN9aqmU9BkV564VDJaU7HAvQxV5MwepZ0aRcti65o7Dr4n6tHmwkPJ9K\nKK6uNlOzAgMBAAECggEAKCHNoxAUNbEnZtwNca38NB+yNzWhEmOZbYrnDFubADd4\n1l37ON8tEgZMDWJaHcllZqZXudSfkfx+BuIL1Ti48GMXkCQEZaX4B+DZ6DnIPo+g\nmIJswNfQFr7XVJtyqurBoAWNGjnXDjLS3uLQykkfCnkMO74bCmiFQW68tjnII0bo\nwiTrQ4J0CQA5LL8YQxwiXJ8kNT5MiJ7cIoa0Se+Riv3Y9PipHyEbbyz4ZPdlvk6L\nZCOyo45FhogaA+y2YHbaW25VLpLahZ6feLIaVAREbGcBeJQjcmlhDqA/KLl/4PGi\n3ahGc17yfw+kIQ3QbIbMqbpoq3HmFRDWjHJzDuyKSQKBgQD2k98bI+gsI1lgVKxE\nW5QS2U/hit/zliNwA2OqShFxaEUqHiHsiy9vRGye0vwoMdXGTw+Rmk6X44uVymHW\ni00thIaDyjs6R/jd7FQ/a6ncM8/yBcd0IdBmJY/VkaTamtLKvu6WoCbKrjY6ZgyD\nI9dn3fPK9b7rt4T+pcNZeIQjFwKBgQDInrS12rBXLdO8Pg7UsfpT4bWe6ipOhZCF\n80CXV6OG0KWgzIov3EhZJ2KUnhPt1YxznM9tpjEDAPEfSdf7hR/vSgQspn69v2sS\nnRmhp6fvB5jF/g5LZQlOgWEp32utXu+2G7rA6O+AFOS5pCuqEvaQGjGwk/viBY4f\n80cnoVMlxQKBgAaSrIjZrS+4BYLm3uy3kDvsZQ+7Fvs0Tl+HB5obfVmLkQRtZzQa\nBbqulUKqlyQvJ+awZtbXyS6NV0Q37+G7NuR2uus6cde84WpxCVHjedSv4OQvuUBk\nQlzmtW3ZAw78v4++BTgorsAKYtGttLmuM+jF5uDLKjq4Wqg7HPj+mG8jAoGBAIFI\nTNn4ILU9cfoX38TPIKsXg8vxyOurBNRdSp18u4OwR1vVE6P+B510VQHC0MLuX8FN\nJxrZAzKVU80+7/FE+6xffUssy/YJOb3YAWF8Qis2MQw+SQXrCVFO7MdoE+K4kC9B\ntVqFgXl/fVnoYr8J01xPlP/ejW48+Da8tnjibEulAoGBANAfcd/YjNz0+iagjfAd\ngE7CbF1eiTHzSweJW4/h7my1aF4aH3le5GHemXRh3TcvesZNZh09nvf6cK7YUNwk\ncIlXWPZyXT21AqRkwPDIb+pjXsrWkIxZkzDv52k8X8+AdHfKpcyyIV7Adrr4y0cN\naX+eSLYjDxEMPHdqfAvbltFJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "dealsellappgoogledrive@dealsell-app-1611678594936.iam.gserviceaccount.com",
+  "client_id": "114273012974355813469",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dealsellappgoogledrive%40dealsell-app-1611678594936.iam.gserviceaccount.com"
+}
